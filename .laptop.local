@@ -16,3 +16,6 @@ brew cask install skype
 brew cask install slack
 brew cask install utorrent
 brew cask install macdown
+brew cask install launchrocket
+brew install macvim
+brew install mariadb
