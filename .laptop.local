@@ -19,3 +19,4 @@ brew cask install macdown
 brew cask install launchrocket
 brew install macvim
 brew install mariadb
+brew install mosh
