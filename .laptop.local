@@ -7,7 +7,6 @@ brew cask install dropbox
 brew cask install google-chrome
 brew cask install vlc
 brew cask install spotify
-brew cask install hipchat
 brew cask install caffeine
 brew cask install dash
 brew cask install divvy
@@ -17,6 +16,4 @@ brew cask install slack
 brew cask install utorrent
 brew cask install macdown
 brew cask install launchrocket
-brew install macvim
-brew install mariadb
 brew install mosh
